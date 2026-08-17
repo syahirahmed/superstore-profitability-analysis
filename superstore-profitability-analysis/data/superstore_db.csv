@@ -1,0 +1,57 @@
+customer_name,segment,region,avg_discount_given,num_orders,total_profit
+Grant Thornton,Corporate,South,0.350,2,-3825.34
+Natalie Fritzler,Consumer,East,0.360,5,-2057.33
+Becky Martin,Consumer,Central,0.329,7,-1878.79
+Joseph Holt,Consumer,South,0.400,1,-1862.31
+Sean Miller,Home Office,South,0.275,8,-1787.05
+Sean Braxton,Corporate,East,0.413,8,-1478.57
+Zuschuss Carroll,Consumer,Central,0.382,11,-1468.58
+Peter Fuller,Consumer,Central,0.500,2,-1133.29
+Victoria Wilson,Corporate,East,0.343,7,-1078.13
+Dean percer,Home Office,South,0.358,12,-1016.65
+Joseph Airdo,Consumer,East,0.300,6,-1007.79
+Sean Braxton,Corporate,Central,0.400,2,-762.00
+Cassandra Brandow,Consumer,Central,0.386,7,-556.99
+Joel Eaton,Consumer,Central,0.475,4,-375.05
+"Patrick O'Brill",Consumer,East,0.360,5,-316.85
+Grant Thornton,Corporate,East,0.200,4,-283.32
+Sean Miller,Home Office,East,0.300,5,-230.17
+John Lee,Consumer,East,0.210,10,-229.93
+John Lee,Consumer,South,0.078,9,-172.52
+"Patrick O'Brill",Consumer,Central,0.205,4,-71.01
+Natalie Fritzler,Consumer,Central,0.375,4,-65.78
+Victoria Wilson,Corporate,Central,0.100,3,-65.32
+Peter Fuller,Consumer,West,0.200,4,-41.97
+Sean Miller,Home Office,West,0.000,1,4.88
+Victoria Wilson,Corporate,South,0.000,1,8.12
+"Patrick O'Brill",Consumer,West,0.100,4,11.64
+Zuschuss Carroll,Consumer,East,0.000,1,12.74
+Peter Fuller,Consumer,South,0.000,3,17.68
+Sean Miller,Home Office,Central,0.000,1,31.59
+Cassandra Brandow,Consumer,South,0.000,2,44.36
+Dean percer,Home Office,Central,0.000,3,53.82
+Joseph Holt,Consumer,Central,0.000,5,68.87
+Joseph Airdo,Consumer,West,0.267,12,73.72
+Greg Maxwell,Corporate,West,0.100,6,76.44
+Zuschuss Carroll,Consumer,South,0.367,3,77.60
+Sean Braxton,Corporate,South,0.000,6,78.06
+Sean Braxton,Corporate,West,0.000,1,79.76
+Joel Eaton,Consumer,East,0.125,4,81.63
+Becky Martin,Consumer,East,0.033,6,90.63
+Dean percer,Home Office,West,0.175,4,94.90
+Joel Eaton,Consumer,West,0.058,6,102.73
+Greg Maxwell,Corporate,South,0.000,5,112.28
+Joseph Airdo,Consumer,Central,0.017,6,114.65
+Becky Martin,Consumer,West,0.067,3,128.19
+Cassandra Brandow,Consumer,East,0.111,9,180.70
+John Lee,Consumer,Central,0.000,5,252.89
+Victoria Wilson,Corporate,West,0.029,7,260.67
+Zuschuss Carroll,Consumer,West,0.163,16,346.11
+John Lee,Consumer,West,0.020,10,378.48
+Joel Eaton,Consumer,South,0.067,9,412.46
+"Patrick O'Brill",Consumer,South,0.178,9,414.69
+Natalie Fritzler,Consumer,South,0.040,5,427.15
+Cassandra Brandow,Consumer,West,0.069,8,482.14
+Peter Fuller,Consumer,East,0.050,10,543.28
+Joseph Holt,Consumer,West,0.100,8,1148.73
+Dean percer,Home Office,East,0.040,10,1201.30
